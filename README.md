@@ -1,6 +1,9 @@
 ## 👋 我是凌老大
 ### 一个呆呆的程序员,喜欢研究Python和PHP ~~(虽然没有研究明白)~~
-### 你可以通过邮件: zhangzhixiang66233@outlook.com 找到我~
+[![Email](https://img.shields.io/badge/Email-zhangzhixiang66233@outlook.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:zhangzhixiang66233@outlook.com)
+[![Bilibili](https://img.shields.io/badge/bilibili-linglaoda-00A1D6?style=flat-square&logo=Bilibili)](https://space.bilibili.com/488316288)
+[![QQ](https://img.shields.io/badge/QQ-2733936350-ff69b4?style=flat-square&logo=Tencent%20QQ)](http://wpa.qq.com/msgrd?v=3&uin=2733936350&site=qq&menu=yes)
+[![QQ](https://img.shields.io/badge/Spotify-歌单-1DB954?style=flat-square&logo=Spotify)](https://open.spotify.com/playlist/1pgxvOfCELSSOdsu3ZiP4s?si=b0719c12422d4ac1)
 ***
 # 🎇我的作品
 ### Openvpn快速部署脚本(sh) [Openvpn-deployment](https://github.com/linglaoda/Openvpn-deployment)
