@@ -10,7 +10,7 @@
 # 🎇我的作品
 ### Openvpn快速部署脚本(sh) [Openvpn-deployment](https://github.com/linglaoda/Openvpn-deployment)
 ### 钉钉禁止下载直播回放下载(Python) [Dingtalk-playback-download](https://github.com/linglaoda/Dingtalk-playback-download)
-### Minecraft 日志解析聊天脚本 (Python) [Minecraft-Log](https://github.com/linglaoda/Minecraft-Log)
+### Minecraft 日志解析聊天脚本(实时/非实时) (Python) [Minecraft-Log](https://github.com/linglaoda/Minecraft-Log)
 
 ***
 ![info](https://github-readme-stats.vercel.app/api?username=linglaoda&show_icons=true&count_private=true&hide=prs&theme=dark)
