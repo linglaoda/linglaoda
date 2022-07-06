@@ -1,7 +1,7 @@
 ## 👋 我是凌老大
 ### 一个呆呆的程序员,喜欢研究Python和PHP ~~(虽然没有研究明白)~~
 [![Email](https://img.shields.io/badge/Email-zhangzhixiang66233@outlook.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:zhangzhixiang66233@outlook.com)
-[![Blog](https://img.shields.io/badge/Blog-bingling.me-0E83CD?style=flat-square&logo=Hexo)](https://bingling.me)
+[![Blog](https://img.shields.io/badge/Blog-iling.cool-0E83CD?style=flat-square&logo=Hexo)](https://iling.cool)
 [![Bilibili](https://img.shields.io/badge/bilibili-linglaoda-00A1D6?style=flat-square&logo=Bilibili)](https://space.bilibili.com/488316288)
 [![Spotify](https://img.shields.io/badge/Spotify-歌单-1DB954?style=flat-square&logo=Spotify)](https://open.spotify.com/playlist/1pgxvOfCELSSOdsu3ZiP4s?si=b0719c12422d4ac1)
 [![Youtube](https://img.shields.io/badge/Youtube-凌老大-FF0000?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCaY1aw0KQ-p_KcKp201L5xA)
