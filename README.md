@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-zhangzhixiang66233@outlook.com-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:zhangzhixiang66233@outlook.com)
 [![Blog](https://img.shields.io/badge/Blog-iling.cool-0E83CD?style=flat-square&logo=Hexo)](https://iling.cool)
 [![Bilibili](https://img.shields.io/badge/bilibili-linglaoda-00A1D6?style=flat-square&logo=Bilibili)](https://space.bilibili.com/488316288)
-[![Spotify](https://img.shields.io/badge/Spotify-歌单-1DB954?style=flat-square&logo=Spotify)](https://open.spotify.com/playlist/1pgxvOfCELSSOdsu3ZiP4s?si=b0719c12422d4ac1)
+[![网易云音乐](https://img.shields.io/badge/网易云音乐-歌单-FA243C?style=flat-square&logo=Apple%20Music)](https://y.music.163.com/m/playlist?id=7505540822&userid=7860924628&creatorId=7860924628)
 [![Youtube](https://img.shields.io/badge/Youtube-凌老大-FF0000?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCaY1aw0KQ-p_KcKp201L5xA)
 [![QQ](https://img.shields.io/badge/QQ-2733936350-ff69b4?style=flat-square&logo=Tencent%20QQ)](http://wpa.qq.com/msgrd?v=3&uin=2733936350&site=qq&menu=yes)
 ***
